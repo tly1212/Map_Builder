@@ -1,0 +1,1 @@
+This main idea of this project is to create a map based on a xml file, which contains  map information, and build a map which can be used to find out shortest routes on giving nodes.
